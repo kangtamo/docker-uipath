@@ -7,3 +7,5 @@ Replace the image name and tag with your preferred one
 Build command remains the same
 
 docker run -it -d uipath:latest
+
+test
